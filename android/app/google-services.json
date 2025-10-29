@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967661813907",
+    "project_id": "info-manager-se",
+    "storage_bucket": "info-manager-se.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967661813907:android:d54f2f49f244736415cd66",
+        "android_client_info": {
+          "package_name": "com.example.info_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-YkJLRXCHhd5sTaF0DCGMWbba1r7cnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
