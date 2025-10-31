@@ -2,6 +2,9 @@
 
 Information Manager for Businesses.
 
+Link to the deployed website:
+https://devsaraf.github.io/info_manager/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
